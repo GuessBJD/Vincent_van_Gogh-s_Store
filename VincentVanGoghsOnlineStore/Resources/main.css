@@ -1,0 +1,99 @@
+﻿
+body {
+
+}
+
+h1.font {
+    font-family: 'Grandstander', cursive;
+    font-weight: bold;
+    color: #A3481B;
+    padding: 5px 30px 5px 30px;
+    background-color: #F0C147;
+}
+
+table.center {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-bottom-line {
+    border-bottom: 1.5px solid #736A65;
+}
+
+.table-bottom-line-double {
+    border-bottom: 3px double #736A65;
+}
+
+.table-bottom-line-double-1 {
+    border-bottom: 3px double #F4D05F;
+}
+
+.table-top-line {
+    border-top: 1.5px solid #736A65;
+}
+
+div.width-50per {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div.width-85per {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.dataList-100per {
+    width: 100%;
+}
+
+.table-100per {
+    width: 100%;
+}
+
+.margin-10px {
+    margin: 10px;
+}
+
+.margin-15px{
+    margin: 15px;
+}
+
+.product-name-font {
+    margin: 0px;
+    width: 100%;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #8B9177;
+}
+
+.product-description-font {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    color: #813D17;
+}
+
+.basket-font {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 1.15rem;
+    color: #2B3A17;
+}
+
+.order-font {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.15rem;
+    color: #41404A;
+}
+
+.button-font {
+    margin: 0px;
+    width: 100%;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #374B28;
+}
+
+
