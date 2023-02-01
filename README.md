@@ -11,4 +11,4 @@ Coursework individual project of Programming Elective II (2). A simple online sh
 - Place order
 
 ## Documentation
-See [documentation]
+See [documentation](https://drive.google.com/file/d/1fQlCv_wEv8jsuEP_GhYXwZFYXsBAMnDa/view?usp=share_link)
